@@ -47,7 +47,7 @@ _ what's the most and least profitable pizzas?
 
 <br>
 
-<h2 align="center">Conclutions</h2>
+<h2 align="center">Conclusions</h2>
 
 <br>
 
