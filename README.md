@@ -31,26 +31,36 @@ _ what's the most and least profitable pizzas?
 
 <br>
 
-<h2 align="center">Visualizations and Results</h2>
+<h2 align="center">Visualizations</h2>
 
 <br>
 
-<p align="center"><img src="/profitability.png" width="70%" height="70%" /></p>
+<p align="center"><img src="images/profitability.png" width="70%" height="70%" /></p>
 
-Most profitable pizza:  Thai chicken pizza 
-Least profitable pizza: Brie Carre pizza
+<br>
 
-<p align="center"><img src="/distribution.png" width="70%" height="70%" /></p>
+<p align="center"><img src="images/distributions.png" width="70%" height="70%" /></p>
 
-Most popular pizza size:     Large
-Most popular pizza category: Classic
+<br>
 
-<p align="center"><img src="/dashboard.png" width="70%" height="70%" /></p>
+<p align="center"><img src="images/dashboard.png" width="70%" height="70%" /></p>
 
-- The busiest part of the day is during the Afternoon 
-- The busiest day od the month is Friday 
-- The busiest month of the year is July
+<br>
+
+<h2 align="center">Conclutions</h2>
+
+<br>
+
+- The busiest part of the day is during the Afternoon (12171 pizzas baked during the afrernoons)
+- The busiest day od the month is Friday (8242 pizzas baked in Fridays)
+- The busiest month of the year is July (4392 pizzas baked in July)
 - Best selling pizza is the Classic Deluxe pizza
 - Worst selling pizza is the Brie Carre pizza
 - Average order value: $38.31 (Revenue/Orders)
-- 
+- The restaurant is utilizing its seating capacity pretty well,considering that at the busiest time of the year, there were enough seats left, for the customers.
+- Most pizza orders doean not contain pineapple however there are 810 orders containing only pizzas with pineapple and nothing else.It is safe to say that pineapple pizzas have some fans but in general people does not prefer them.
+- Most profitable pizza is the Thai chicken pizza (which is a pineapple pizza)
+- Least profitable pizza is the Brie Carre pizza
+- Most popular pizza size is Large
+- Most popular pizza category is Classic
+- Most used ingredients are Garlics, followed by Tomatoes and Red Onions
