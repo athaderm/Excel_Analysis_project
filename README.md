@@ -26,6 +26,8 @@ Some questions that were asked:
 - How well are we utilizing our seating capacity? (we have 15 tables and 60 seats)
 - Do people like pineapple on pizzas?
 - What is the ditribution of pizza sizes and pizza categories?
+_ what's the most and least profitable pizzas?
+- Which indredients do we use the most?
 
 <br>
 
@@ -33,4 +35,22 @@ Some questions that were asked:
 
 <br>
 
-<p align="center"><img src="/images/salary_dist.png" width="70%" height="70%" /></p>
+<p align="center"><img src="/profitability.png" width="70%" height="70%" /></p>
+
+Most profitable pizza:  Thai chicken pizza 
+Least profitable pizza: Brie Carre pizza
+
+<p align="center"><img src="/distribution.png" width="70%" height="70%" /></p>
+
+Most popular pizza size:     Large
+Most popular pizza category: Classic
+
+<p align="center"><img src="/dashboard.png" width="70%" height="70%" /></p>
+
+- The busiest part of the day is during the Afternoon 
+- The busiest day od the month is Friday 
+- The busiest month of the year is July
+- Best selling pizza is the Classic Deluxe pizza
+- Worst selling pizza is the Brie Carre pizza
+- Average order value: $38.31 (Revenue/Orders)
+- 
