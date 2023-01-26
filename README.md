@@ -6,17 +6,17 @@
 
 <h2 align="center">Project overview</h2>
 
-- The Dataset contains Pizza restaurant information from 2015 and it was found in Kaggle
-- Excel was used for this project
-- The Dataset contains 48.621 records
-- The Dataset was checked for missing values and duplicates
-- The project contains some simple formulas, pivot tables, visualizations  and a dashboard 
+- The Dataset contains information from a Pizza restaurant and it was found in Kaggle.
+- MS Excel was used for this project.
+- The Dataset contains 48.621 records.
+- The Dataset was checked for missing values and duplicates.
+- The project contains simple formulas, pivot tables, visualizations  and a dashboard. 
 
 <br>
 
 <h2 align="center">Objectives</h2>
 
-The primary goal was to provide some insights, to the pizza restaurant manangers, in order to improve the restaurant's operations.
+The primary goal was to provide some insights, to the pizza restaurant mananger, in order to improve the restaurant's operations.
 
 Some questions that were asked:
 - What days and times do we tend to be busiest?
@@ -51,16 +51,20 @@ _ what's the most and least profitable pizzas?
 
 <br>
 
-- The busiest part of the day is during the Afternoon (12171 pizzas baked during the afrernoons)
-- The busiest day od the month is Friday (8242 pizzas baked in Fridays)
-- The busiest month of the year is July (4392 pizzas baked in July)
-- Best selling pizza is the Classic Deluxe pizza
-- Worst selling pizza is the Brie Carre pizza
-- Average order value: $38.31 (Revenue/Orders)
-- The restaurant is utilizing its seating capacity pretty well,considering that at the busiest time of the year, there were enough seats left, for the customers.
-- Most pizza orders doean not contain pineapple however there are 810 orders containing only pizzas with pineapple and nothing else.It is safe to say that pineapple pizzas have some fans but in general people does not prefer them.
-- Most profitable pizza is the Thai chicken pizza (which is a pineapple pizza)
-- Least profitable pizza is the Brie Carre pizza
-- Most popular pizza size is Large
-- Most popular pizza category is Classic
-- Most used ingredients are Garlics, followed by Tomatoes and Red Onions
+- The busiest part of the day is during the Afternoon.
+- The busiest day of the month is Friday.
+- The busiest month of the year is July.
+- Best selling pizza is the "Classic Deluxe" pizza.
+- Worst selling pizza is the "Brie Carre" pizza.
+- Average order value is $38.31 (Revenue/Orders).
+- The restaurant is utilizing its seating capacity well. Considering that at the busiest time of the year, there were enough seats left for the customers.
+- Most pizza orders do not contain pineapple. However there are 810 orders containing only pizzas with pineapple. It is safe to say that pineapple pizzas have some fans. However, in general, people do not prefer them.
+- Most profitable pizza is the "Thai Chicken" pizza. (which is a pineapple pizza)
+- Least profitable pizza is the "Brie Carre" pizza.
+- Most popular pizza size is "Large".
+- Most popular pizza category is "Classic".
+- Most used ingredients are garlic, tomato and red onion.
+
+<p align="center">
+For more details, <a href="excel-file.xls">download</a> and open the excel file.
+</p>
