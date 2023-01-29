@@ -66,5 +66,5 @@ _ what's the most and least profitable pizzas?
 - Most used ingredients are garlic, tomato and red onion.
 
 <p align="center">
-For more details, <a href="Pizza_Sales_project.xls">download</a> and open the excel file.
+For more details, <a href="Pizza_Sales_project.xlsx">download</a> and open the excel file.
 </p>
